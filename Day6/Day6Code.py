@@ -13,3 +13,4 @@ signalLines = signalInput.readlines()[0]
 print("Part 1: ", findStartMarker(signalLines, 4))
 print("Part 2: ", findStartMarker(signalLines, 14))
 
+

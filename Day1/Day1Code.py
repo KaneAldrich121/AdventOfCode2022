@@ -13,3 +13,4 @@ for line in allLines:
 allTotals.sort(reverse=True)
 top3 = allTotals[0] + allTotals[1] + allTotals[2]
 print('Best Elf: ', allTotals[0], 'Top 3: ', top3)
+
